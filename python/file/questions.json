@@ -1,0 +1,25 @@
+{
+    "questions":[
+        {
+            "question":"hello how are you good morning evening afternoon coucou hello hi"
+        },
+        {
+            "question":"give what can i do for you is your program menu show me how work"
+        },
+        {
+            "question":"give me current can i have the what time is it hour"
+        },
+        {
+            "question":"what is show authors give list of all what are the different"
+        },
+        {
+            "question":"give me documents document with about show me key words"
+        },
+        {
+            "question":""
+        },
+        {
+            "question":"change topics to new one theme corpus type subject"
+        }
+    ]
+}
